@@ -1,0 +1,1 @@
+03:49:19.884 [IME] onStateChanged: suggestion=true, composing=[], showCandidate=false, isT9=true

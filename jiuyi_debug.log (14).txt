@@ -1,0 +1,1 @@
+03:49:21.355 [IME] query start: input=[9], isT9=true, gen=11
