@@ -1,0 +1,1 @@
+07:04:45.396 [IME] query start: input=[h], isT9=false, caps=false, prefix=null, gen=10
