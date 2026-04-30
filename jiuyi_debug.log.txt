@@ -1,1 +1,0 @@
-05:41:12.947 [IME] onStateChanged: suggestion=true, composing=[y], showCandidate=true, isT9=false, caps=false
