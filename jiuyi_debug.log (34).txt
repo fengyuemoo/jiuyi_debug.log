@@ -1,0 +1,1 @@
+07:29:03.278 [ZhCoord] reset() called — assocEnabled was=false

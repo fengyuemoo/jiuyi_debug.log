@@ -1,0 +1,1 @@
+07:27:19.821 [ZhCoord] assocJob: got 10 results, assocEnabled=true assocBlocked=false

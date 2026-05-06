@@ -1,0 +1,1 @@
+07:27:14.414 [IME] onCandidatesReady: size=28, hasComposing=true
